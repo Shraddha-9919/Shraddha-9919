@@ -5,13 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha-9919&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha-9919" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, courses etc.**
-
-- 💬 Ask me about **react, react-native**
-
 - 📫 How to reach me **gorthekarshraddha1999@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
