@@ -114,14 +114,10 @@
 <!-- GitHub Stats Section -->
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shraddha-9919&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=22272e&text_color=ffffff&icon_color=ffcc00&title_color=ffcc00" alt="Shraddha's GitHub Stats" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shraddha-9919&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=22272e&text_color=ffffff&icon_color=ffcc00&title_color=ffcc00" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha-9919&layout=compact&hide_title=true&hide_border=true&bg_color=22272e&text_color=ffffff&icon_color=ffcc00&title_color=ffcc00" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- End Section -->
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
