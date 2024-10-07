@@ -10,6 +10,13 @@
 - 📫 How to reach me **gorthekarshraddha1999@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
+<ul>
+  <li>C</li>
+  <li>C++</li>
+  <li>Java</li>
+  <li>YAML Scripting</li>
+  <li>Bash Scripting</li>
+</ul>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
