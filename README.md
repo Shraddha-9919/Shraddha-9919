@@ -118,4 +118,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha-9919&layout=compact&hide_title=true&hide_border=true&bg_color=22272e&text_color=ffffff&icon_color=ffcc00&title_color=ffcc00" alt="Top Languages" />
+</p>
+
+---
+
+<!-- End Section -->
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
