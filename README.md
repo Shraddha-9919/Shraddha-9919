@@ -95,8 +95,21 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddha-9919&show_icons=true&locale=en&layout=compact" alt="shraddha-9919" /></p>
+<!-- Most Used Languages Section -->
+<h3 align="left">Most Used Languages:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddha-9919&show_icons=true&locale=en&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&hide=javascript,html,css" alt="shraddha-9919" /></p>
 
+<!-- Add C, C++, Java, YAML, Bash -->
+<h3 align="left">Programming Languages:</h3>
+<ul>
+  <li>C</li>
+  <li>C++</li>
+  <li>Java</li>
+  <li>YAML Scripting</li>
+  <li>Bash Scripting</li>
+</ul>
+
+<!-- Stats Section -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddha-9919&show_icons=true&locale=en" alt="shraddha-9919" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha-9919&" alt="shraddha-9919" /></p>
