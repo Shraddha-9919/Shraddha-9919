@@ -40,13 +40,17 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddha-9919&show_icons=true&locale=en&layout=compact" alt="shraddha-9919" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddha-9919&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=22272e&text_color=ffffff&icon_color=ffcc00&title_color=ffcc00" alt="Shraddha's GitHub Stats" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddha-9919&show_icons=true&locale=en" alt="shraddha-9919" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha-9919&layout=compact&bg_color=22272e&text_color=ffffff&hide_border=true" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha-9919&" alt="shraddha-9919" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha-9919&theme=dark&hide_border=true&background=22272e&stroke=ffcc00&fire=ffcc00&ring=ffcc00" alt="Streak Stats" />
+</p>
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
