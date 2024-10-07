@@ -10,13 +10,6 @@
 - 📫 How to reach me **gorthekarshraddha1999@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<ul>
-  <li>C</li>
-  <li>C++</li>
-  <li>Java</li>
-  <li>YAML Scripting</li>
-  <li>Bash Scripting</li>
-</ul>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -102,19 +95,10 @@
   </a>
 </p>
 
-<!-- Most Used Languages Section -->
-<h3 align="left">Most Used Languages:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddha-9919&show_icons=true&locale=en&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&hide=javascript,html,css" alt="shraddha-9919" /></p>
-
-<!-- Add C, C++, Java, YAML, Bash -->
-<h3 align="left">Programming Languages:</h3>
-<ul>
-  <li>C</li>
-  <li>C++</li>
-  <li>Java</li>
-  <li>YAML Scripting</li>
-  <li>Bash Scripting</li>
-</ul>
+<!-- Add most used languages under the section -->
+<p align="left">
+  <strong>Most Used Languages:</strong> C, C++, Java, YAML Scripting, Bash Scripting
+</p>
 
 <!-- Stats Section -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddha-9919&show_icons=true&locale=en" alt="shraddha-9919" /></p>
